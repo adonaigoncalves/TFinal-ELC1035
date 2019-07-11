@@ -15,6 +15,7 @@ No nível do arquivo [manage.py](manage.py), use os seguintes comandos para exec
 - pip install -r requirements.pip
 - python manage.py migrate
 - python manage.py runserver
+
 Em outro terminal mas no mesmo nível, use o seguinte comando para deixar o bot do Telegram rodando:
 - python3 bot.py
 
