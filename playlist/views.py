@@ -11,7 +11,7 @@ from django.contrib import messages
 # Create your views here.
 
 SITE_URL = 'http://127.0.0.1:8000/'
-key = 'api_key=0c6d96dc4c081f6c309a563acbcbd996'
+key = 'api_key=API_KEY'
 base = 'http://api.tmdb.org/3/'
 
 class Details:

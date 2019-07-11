@@ -74,7 +74,7 @@ def handle(msg):
 
 # TOKEN = sys.argv[1]  # get token from command-line
 
-bot = telepot.Bot('784007285:AAEVrzMnP5RcO1HNsTAKBYB9LCS9HL_nOlI')
+bot = telepot.Bot('API_KEY')
 MessageLoop(bot, handle).run_as_thread()
 print('Listening ...')
 
