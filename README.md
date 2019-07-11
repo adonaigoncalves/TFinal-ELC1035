@@ -17,6 +17,7 @@ No nível do arquivo [manage.py](manage.py), use os seguintes comandos para exec
 - python manage.py runserver
 
 Em outro terminal mas no mesmo nível, use o seguinte comando para deixar o bot do Telegram rodando:
+- source ./venv/bin/activate
 - python3 bot.py
 
 ## BOT
